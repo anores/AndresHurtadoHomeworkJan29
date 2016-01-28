@@ -1,0 +1,13 @@
+
+down();
+down();
+var C=getColor();
+right();
+right();
+down();
+down();
+down();
+setColor("green");
+right();
+right();
+up();
