@@ -1,0 +1,54 @@
+ACTUAL:
+
+	right();
+	right();
+  down();
+	right();
+	right();
+	down();
+	right();
+	right();
+	down();
+	right();
+	right();
+	right();
+
+
+
+
+
+
+function LDown() {
+  
+	right();
+	right();
+	if (getColor() == "blue") {
+  	down(); 
+		}
+}
+LDown(); 
+
+
+
+
+
+	right();
+	right();
+  down();
+    
+    }
+LDown(); 
+
+
+
+
+  function LDown(total) {
+    var count = 3;
+    while (count < total) {
+      right();
+      right();
+      down();
+      count = count + 1;
+    }
+  }
+LDown(); 
