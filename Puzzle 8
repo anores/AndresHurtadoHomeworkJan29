@@ -1,0 +1,28 @@
+while (getColor() == "") {
+  down();
+}
+right();
+right();
+
+while (getColor() == "") {
+  up();
+}
+right();
+
+right();
+while (getColor() == "") {
+  down();
+}
+right();
+right();
+
+while (getColor() == "") {
+  up();
+}
+right();
+right();
+
+while (getColor() == "") {
+  down();
+}
+right();
